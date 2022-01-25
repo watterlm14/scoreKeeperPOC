@@ -1,0 +1,22 @@
+<%- include('../partials/_head', {title :'Contestants'}) %>
+<%- include('../partials/_header') %>
+<body>
+    <h1>Contestants</h1>
+    <ul>
+        <% contestants.forEach((contestant)=> { %>
+            <li>
+                <h2>
+                    <%= contestant.Name %>
+                </h2>
+                <p>
+                    <%= contestant.Division %>
+                </p>
+                <p>
+                    <%= contestant.Horse %>
+                </p>
+            </li>
+            <hr />
+        <% }) %>
+    </ul>
+</body>
+<%- include('../partials/_footer') %>

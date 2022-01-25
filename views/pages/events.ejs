@@ -1,0 +1,19 @@
+<%- include('../partials/_head', {title :'All Events'}) %>
+<%- include('../partials/_header') %>
+<body>
+    <h1>Events</h1>
+    <ul>
+        <% events.forEach((event)=> { %>
+            <li>
+                <h2>
+                    <a href="event/<%= event._id %>"><%= event.Name %></a>
+                </h2>
+                <p>
+                    <%= event.StartDate %> - <%= event.EndDate %>
+                </p>
+            </li>
+            <hr />
+        <% }) %>
+    </ul>
+</body>
+<%- include('../partials/_footer') %>

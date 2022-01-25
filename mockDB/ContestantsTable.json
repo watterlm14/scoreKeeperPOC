@@ -1,0 +1,16 @@
+[
+    {
+        "_id": 1,
+        "Name": "Contestant 1",
+        "Division": "Walk",
+        "Horse": "Horse 1",
+        "Events": [ 1, 2, 3, 4]
+    },
+    {
+        "_id": 2,
+        "Name": "Contestant 2",
+        "Division": "Walk",
+        "Horse": "Horse 2",
+        "Events": [ 1, 2, 3]
+    }
+]

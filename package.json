@@ -1,0 +1,26 @@
+{
+  "name": "scorekeeperpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watterlm14/scoreKeeperPOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watterlm14/scoreKeeperPOC/issues"
+  },
+  "homepage": "https://github.com/watterlm14/scoreKeeperPOC#readme",
+  "dependencies": {
+    "dotenv": "^14.3.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "linq": "^3.2.4"
+  }
+}

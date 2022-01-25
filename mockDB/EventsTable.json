@@ -1,0 +1,29 @@
+[
+    {
+        "_id": 1,
+        "Name": "May Archery Comp",
+        "StartDate": "05/14/2022",
+        "EndDate": "05/15/2022"
+    },
+    {
+        "_id": 2,
+        "Name": "June Archery Comp",
+        "Year": "2022",
+        "StartDate": "06/16/2022",
+        "EndDate": "06/18/2022"
+    },
+    {
+        "_id": 3,
+        "Name": "July Archery Comp",
+        "Year": "2022",
+        "StartDate": "07/20/2022",
+        "EndDate": "07/31/2022"
+    },
+    {
+        "_id": 4,
+        "Name": "August Archery Comp",
+        "Year": "2022",
+        "StartDate": "08/27/2022",
+        "EndDate": "08/28/2022"
+    }
+]

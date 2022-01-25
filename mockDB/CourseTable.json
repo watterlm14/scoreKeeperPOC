@@ -1,0 +1,26 @@
+[
+    {
+        "Event": 1,
+        "Name": "Course 1",
+        "NumberOfTargets": "3",
+        "NumerOfRounds": "6",
+        "Multishot": "Mid",
+        "Division": "Walk"
+    },
+    {
+        "Event": 1,
+        "Name": "Course 2",
+        "NumberOfTargets": "3",
+        "NumerOfRounds": "6",
+        "Multishot": "Mid",
+        "Division": "Walk"
+    },
+    {
+        "Event": 1,
+        "Name": "Course 3",
+        "NumberOfTargets": "3",
+        "NumerOfRounds": "6",
+        "Multishot": "Mid",
+        "Division": "Walk"
+    }
+]
